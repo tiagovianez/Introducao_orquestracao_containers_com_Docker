@@ -1,4 +1,4 @@
-## Introdução a orquestração de contêiners com Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+## Introdução a orquestração de contêiners com Docker
 
 ### Neste curso serão abordados os seguintes temas :ferry: :
 
