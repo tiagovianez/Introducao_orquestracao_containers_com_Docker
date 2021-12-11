@@ -1,6 +1,6 @@
 ## Orquestração de contêiners com Docker
 
-### Neste curso foram abordados so seguintes temas :ferry: :
+### Neste curso serão abordados os seguintes temas   <img align="center" alt="Tiago-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">  :
 
 
 * Capítulo 01 - Introdução ao Tema  
