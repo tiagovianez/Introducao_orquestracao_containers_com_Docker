@@ -1,4 +1,4 @@
-## Introdução a orquestração de contêiners com Docker
+## Orquestração de contêiners com Docker
 
 ### Neste curso foram abordados so seguintes temas :ferry: :
 
